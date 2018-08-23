@@ -1,3 +1,5 @@
+(This fork doesn't use lein-ring, but rather the uberjars as made by luminus)
+
 
 # Creating a basic S2I builder image  
 
